@@ -1,5 +1,4 @@
 const nameGirl = 'Cậu';
-const giftUrl = 'http://nodemy.vn';
 const eventName = 'Cảm ơn cậu rất nhiều';
 const titleCard = 'Gửi cậu lời chúc mùa Giáng Sinh';
 const contentCard = 'Chúc cậu và gia đình một mùa Giáng Sinh vui vẻ và hạnh phúc💘';
